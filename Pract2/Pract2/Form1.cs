@@ -31,12 +31,12 @@ namespace Pract2
 
         private void создатьНовыйПроектToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            int sum = 45;
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-
+           
         }
 
         private void печатьToolStripMenuItem_Click(object sender, EventArgs e)
@@ -68,7 +68,7 @@ namespace Pract2
 
         private void DeletetoolStripButton3_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void InserttoolStripButton1_Click(object sender, EventArgs e)
