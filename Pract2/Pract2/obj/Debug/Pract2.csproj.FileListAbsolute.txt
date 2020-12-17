@@ -1,0 +1,12 @@
+C:\Users\sozon\Source\Repos\Pract2\Pract2\bin\Debug\Pract2.exe.config
+C:\Users\sozon\Source\Repos\Pract2\Pract2\bin\Debug\Pract2.exe
+C:\Users\sozon\Source\Repos\Pract2\Pract2\bin\Debug\Pract2.pdb
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.csprojAssemblyReference.cache
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.Form1.resources
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.Properties.Resources.resources
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.csproj.GenerateResource.cache
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.exe
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.pdb
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.AboutBox1.resources
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.Form2.resources
+C:\Users\sozon\Source\Repos\Pract2\Pract2\obj\Debug\Pract2.Form3.resources
