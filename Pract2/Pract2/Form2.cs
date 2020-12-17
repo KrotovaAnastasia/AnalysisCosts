@@ -19,7 +19,7 @@ namespace Pract2
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            //gfjkffjgf
+            //gfjkffапоапвпыоjgf
         }
 
         private void справкаToolStripMenuItem1_Click(object sender, EventArgs e)
