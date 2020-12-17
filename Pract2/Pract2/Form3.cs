@@ -15,11 +15,12 @@ namespace Pract2
         public Form3()
         {
             InitializeComponent();
+            string h = "Help";
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
