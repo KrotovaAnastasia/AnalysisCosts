@@ -36,7 +36,7 @@ namespace Pract2
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-           
+           //Тут будет программа
         }
 
         private void печатьToolStripMenuItem_Click(object sender, EventArgs e)
