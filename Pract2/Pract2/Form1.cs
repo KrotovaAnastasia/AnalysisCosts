@@ -68,7 +68,7 @@ namespace Pract2
 
         private void DeletetoolStripButton3_Click(object sender, EventArgs e)
         {
-            
+            //Тут что-то будет 
         }
 
         private void InserttoolStripButton1_Click(object sender, EventArgs e)
