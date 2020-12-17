@@ -26,7 +26,7 @@ namespace Pract2
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int b = 20;
         }
 
         private void создатьНовыйПроектToolStripMenuItem_Click(object sender, EventArgs e)
